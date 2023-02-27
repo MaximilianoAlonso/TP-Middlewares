@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+ <%- include('./partials/head') %>
+<body>
+  <%- include('./partials/header') %>
+  <main>
+   
+    <div class="card-body">
+      <form action="/admin" method="GET">
+          <div class="mb-3">
+              <label for="admin" class="form-label">Administrador</label>
+              <input type="text" class="form-control" id="admin" placeholder="Escribí tu nombre" name="admin">
+            </div>
+            <button class="btn btn-primary btn-block">Ingresar</button>
+      </form>
+
+
+
+  </main>
+  <%- include('./partials/footer') %>
+</body>
+
+</html>

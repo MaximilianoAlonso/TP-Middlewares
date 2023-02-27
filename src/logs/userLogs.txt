@@ -1,0 +1,6 @@
+El usuario ingreso a la ruta /admin 
+El usuario ingreso a la ruta /notEntry 
+El usuario ingreso a la ruta /index 
+El usuario ingreso a la ruta /index 
+El usuario ingreso a la ruta /products 
+El usuario ingreso a la ruta /index 
